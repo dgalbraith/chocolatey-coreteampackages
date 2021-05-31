@@ -33,6 +33,7 @@
 */kubernetes-compose*   @dgalbraith
 */minikube*             @dgalbraith
 */minishift*            @dgalbraith
+*/octave.portable*      @dgalbraith
 
 # Other
 # This can be any file other that won't be matched as a package
