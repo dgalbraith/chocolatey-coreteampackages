@@ -29,6 +29,7 @@
 */kubelogin*            @jetersen
 */ffmpeg-full*          @VuiMuich
 */etcd*                 @dgalbraith
+*/kubernetes-cli*       @dgalbraith
 
 # Other
 # This can be any file other that won't be matched as a package
