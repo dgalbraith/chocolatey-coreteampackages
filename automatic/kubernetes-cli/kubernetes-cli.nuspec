@@ -5,7 +5,7 @@
     <id>kubernetes-cli</id>
     <version>1.21.1</version>
     <packageSourceUrl>https://github.com/chocolatey-community/chocolatey-coreteampackages/tree/master/automatic/kubernetes-cli</packageSourceUrl>
-    <owners>chocolatey-community,Andrei Bejenaru</owners>
+    <owners>chocolatey-community,dgalbraith,Andrei Bejenaru</owners>
     <title>Kubernetes Command Line Interface (CLI)</title>
     <authors>Google</authors>
     <projectUrl>https://kubernetes.io</projectUrl>
