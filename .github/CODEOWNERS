@@ -31,6 +31,7 @@
 */etcd*                 @dgalbraith
 */kubernetes-cli*       @dgalbraith
 */kubernetes-compose*   @dgalbraith
+*/minikube*             @dgalbraith
 
 # Other
 # This can be any file other that won't be matched as a package
